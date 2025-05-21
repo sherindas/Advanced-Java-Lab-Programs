@@ -1,4 +1,5 @@
 ✅ 1a. ArrayList and LinkedList Operations
+
 Q1a. ArrayList and LinkedList with Operations 
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1A%20ListOperations.png
 
