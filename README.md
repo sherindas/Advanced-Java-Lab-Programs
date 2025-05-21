@@ -1,39 +1,52 @@
-✅ 1a. ArrayList and LinkedList Operations
+✅ Q1. ArrayList and LinkedList Operations
 
-Q1a. ArrayList and LinkedList with Operations 
+1a. ArrayList and LinkedList with Operations
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1A%20ListOperations.png
 
 ✅ 1b. ArrayList Programs
+
 Q1. Search for "Red" in ArrayList
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_1%20ColourSearch.png
 
 Q2. Remove 2nd Element and "Blue"
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_2%20RemoveColour.png
 
 Q3. Sort Colors using Collections.sort()
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_3%20SortColors.png
 
 Q4. Extract 1st and 2nd Elements using SubList
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_4%20ExtractColors.png
 
 Q5. Delete nth Element using remove(index)
+
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_5%20DeleteElement.png
 
 ✅ 1c. LinkedList Programs
+
 Q1. Iterate from 2nd Position using Iterator
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_1%20IterateFromSecond.png
 
 Q2. Iterate in Reverse Order
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_2%20ReverseIterator.png
 
 Q3. Insert Element at End using offerLast()
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_3%20InsertatEnd.png
 
 Q4. Display Elements and Their Positions
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_4%20DisplaywithPosition.png
 
 Q5. Swap First and Third Elements
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_5%20SwapElement.png
 
 ✅ 2a & 3a. String Operations
 📸 Output Screenshot: [screenshot_link_here]
