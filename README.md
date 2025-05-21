@@ -156,7 +156,7 @@ Q6a. Factorial Using Servlet
 
 Q6b. Cookie Greeting and Expiry
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6B%20CookieServlet/CookieServlet1.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6B%20CookieServlet/CookieServlet1.png  
 📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6B%20CookieServlet/CookieServlet2.png
 
 Q6c. Prime Number Check 
