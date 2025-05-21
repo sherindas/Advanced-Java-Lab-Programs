@@ -214,7 +214,10 @@ Q9b. Query Coffee Name
 
 Q9c. Append into Emp Table with Report
 
-📸 Output Screenshot: [screenshot_link_here]
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeInsertDisplay/9C%20EmployeeInsert.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeInsertDisplay/9C%20EmployeeDisplay.png  
 
-Q9d. Delete Emp Record Starting with ‘S’
-📸 Output Screenshot: [screenshot_link_here]
+Q9d. Delete Emp Record Starting with ‘S’ 
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/EmployeeDeleteSearch.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/DeleteConfirmation.png  
+📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/EmployeeDeleted.png  
