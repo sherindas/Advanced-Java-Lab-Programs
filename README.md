@@ -151,7 +151,7 @@ Q5d. Tabbed Pan – Cyan, Magenta, Yellow
 
 Q6a. Factorial Using Servlet
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6A%20FactorialProgram/FactorialProgram1.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6A%20FactorialProgram/FactorialProgram1.png <br>
 📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6A%20FactorialProgram/FactorialProgram2.png
 
 Q6b. Cookie Greeting and Expiry
