@@ -15,7 +15,7 @@ Program to search for a specific element in an ArrayList.
 
 **Output:** [1B_1 ColourSearch.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_1%20ColourSearch.png)
 
-#### Q2. Remove 2nd Element and "Blue"
+#### Q2. Remove 2nd Element and "Blue"  
 Program to remove elements from an ArrayList by index and value.
 
 **Output:** [1B_2 RemoveColour.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1B%20ArrayList/1B_2%20RemoveColour.png)
