@@ -161,24 +161,24 @@ Q6b. Cookie Greeting and Expiry
 
 Q6c. Prime Number Check 
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6C%20PrimeOrNot/PrimeOrNot1.png
-📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6C%20PrimeOrNot/PrimeOrNot2.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6C%20PrimeOrNot/PrimeOrNot1.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp6%20Servlet%20Basics/6C%20PrimeOrNot/PrimeOrNot2.png  
 
 
 ✅ 7a–7b. JSP Session and Cookie Management
 
 Q7a. JSP Session Greeting with 1-Min Expiry
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement1.png
-📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement2.png
-📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement3.png
-📸 Output Screenshot 4: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement4.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement1.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement2.png  
+📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement3.png  
+📸 Output Screenshot 4: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7A%20SessionManagement/SessionManagement4.png  
 
 Q7b. JSP Cookie Management and Listing
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement1.png
-📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement2.png
-📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement3.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement1.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement2.png  
+📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp7%20JSP%20Session%20Cookie/7B%20CookieManagement/CookieManagement3.png  
 
 
 ✅ 8a–8d. Coffee and Emp JDBC with JSP
@@ -193,24 +193,24 @@ Q8b. Update Coffee Table
 
 Q8c. Insert into Emp Table with Report
 
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8C%20EmployeeInsert/EmployeeInsert.png
-📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8C%20EmployeeInsert/SalaryReport.png
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8C%20EmployeeInsert/EmployeeInsert.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8C%20EmployeeInsert/SalaryReport.png  
 
 Q8d. Update Emp Table via JSP
-
-📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8D%20EmployeeUpdate/EmployeeUpdate.png
-📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8D%20EmployeeUpdate/EmployeeUpdatedTable.png
+ 
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8D%20EmployeeUpdate/EmployeeUpdate.png  
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8D%20EmployeeUpdate/EmployeeUpdatedTable.png  
 
 
 ✅ 9a–9d. Deletion and Querying
 
 Q9a. Delete Coffee Record
 
-📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9A%20Mysql_delete.png
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9A%20Mysql_delete.png  
 
 Q9b. Query Coffee Name 
 
-📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9B%20Mysql_query.png
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9B%20Mysql_query.png  
 
 Q9c. Append into Emp Table with Report
 
