@@ -1,4 +1,4 @@
-✅ Q1. ArrayList and LinkedList Operations
+✅ 1A. ArrayList and LinkedList Operations
 
 1a. ArrayList and LinkedList with Operations
 
@@ -48,53 +48,85 @@ Q5. Swap First and Third Elements
 
 📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp1%20ArrayList%20and%20LinkedList/1C%20LinkedList/1C_5%20SwapElement.png
 
-✅ 2a & 3a. String Operations
-📸 Output Screenshot: [screenshot_link_here]
 
-✅ 2b. Performance Test – StringBuffer vs StringBuilder
-📸 Output Screenshot: [screenshot_link_here]
+✅ 2A. String Operations
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp2%20String%20Operations/2A%20StringOperations.png
+
+✅ 2B. Performance Test – StringBuffer vs StringBuilder
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp2%20String%20Operations/2B%20PerformanceTest.png
+
+✅ 3A. String Operations
+
+📸 Output Screenshot 1: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3A%20StringOperation1.png
+
+📸 Output Screenshot 2: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3A%20StringOperation2.png
+
+📸 Output Screenshot 3: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3A%20StringOperation3.png
 
 ✅ 3b. String Exercises
+
 Q1. Check if String is Null or Empty
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3B%20String%20Operations/3B_1%20IsNullorEmpty.png
 
 Q2. Count Occurrences of Substring
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3B%20String%20Operations/3B_2%20SubStringOccurance.png
 
 Q3. Reverse a String
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3B%20String%20Operations/3B_3%20ReverseString.png
 
 Q4. Check if String is Palindrome
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3B%20String%20Operations/3B_4%20PalindromeCheck.png
 
 Q5. Remove Whitespace
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3B%20String%20Operations/3B_5%20RemoveWhiteSapce.png
+
 
 ✅ 3c. More String Exercises
+
 Q6. Capitalize First Letter of Each Word
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3C%20String%20Operations/3C_1%20CapitalizeEachWord.png
 
 Q7. Truncate String with Ellipsis
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3C%20String%20Operations/3C_2%20TurncateString.png
 
 Q8. Check if String is Numeric
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3C%20String%20Operations/3C_3%20IsNumeric.png
 
 Q9. Generate Random String
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3C%20String%20Operations/3C_4%20RandomStringGenerator.png
 
 Q10. Count Words in a String
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp3%20String%20Operations/3C%20String%20Operations/3C_5%20CountWords.png
+
+
 
 ✅ 4a–4c. Swing Programs
-Q4a. Hello Swing in Blue Font
-📸 Output Screenshot: [screenshot_link_here]
+
+
+Q4a. Hello Welcome to Swing in Blue Font
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp4%20Swing%20Basics/4A%20WelcomeToSwingExample.png
 
 Q4b. Button Pressed Message (India/Sri Lanka)
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp4%20Swing%20Basics/4B%20ButtonPressedExample.png
 
 Q4c. Button with Image – Clock or Hourglass
-📸 Output Screenshot: [screenshot_link_here]
+
+📸 Output Screenshot: https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp4%20Swing%20Basics/4C%20DigitalandHourClock.png
+
 
 ✅ 5a–5d. Swing with JList and Tabs
 Q5a. JList of Countries – Show Selected
