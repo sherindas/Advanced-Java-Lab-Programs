@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coffee Management</title>
+</head>
+<body>
+    <h1>Coffee Management</h1>
+
+    <h2>Delete Coffee Product</h2>
+    <form action="coffeedelete.jsp" method="post">
+        Coffee ID to Delete: <input type="number" name="id" required>
+        <input type="submit" value="Delete">
+    </form>
+
+    <hr>
+
+    <h2>Search Coffee Products Starting With</h2>
+    <form action="coffeestartletter.jsp" method="get">
+        Enter Starting Letter: <input type="text" name="startLetter" maxlength="1" required pattern="[A-Za-z]">
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>

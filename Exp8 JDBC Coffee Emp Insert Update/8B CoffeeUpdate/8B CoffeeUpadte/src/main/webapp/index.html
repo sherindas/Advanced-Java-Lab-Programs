@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coffee Product Management</title>
+</head>
+<body>
+    <h2>Insert New Coffee Product</h2>
+    <form action="coffeeinsert.jsp" method="post">
+        Coffee Name: <input type="text" name="coffee_name" required><br><br>
+        Price: <input type="number" step="0.01" name="price" required><br><br>
+        <input type="submit" value="Insert">
+    </form>
+
+    <h2>Update Existing Coffee Product</h2>
+    <form action="coffeeupdate.jsp" method="post">
+        Coffee ID: <input type="number" name="id" required><br><br>
+        New Coffee Name: <input type="text" name="coffee_name" required><br><br>
+        New Price: <input type="number" step="0.01" name="price" required><br><br>
+        <input type="submit" value="Update">
+    </form>
+
+    <br><br>
+    <a href="view.jsp">View All Coffee Products</a>
+</body>
+</html>
