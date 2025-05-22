@@ -224,7 +224,8 @@ JSP program for cookie management and listing.
 ### 8A. Insert into Coffee Table
 JDBC program to insert data into Coffee table.
 
-**Output:** [8A Mysql_select.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8A%20Mysql_select.png)
+**Output:** [8A CoffeeInsert.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8A%20CoffeeInsert/CoffeeInsert.png)  
+**Output:** [8B CoffeeInsertedTable.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8A%20CoffeeInsert/CoffeeInsertedTable.png)
 
 ### 8B. Update Coffee Table
 JDBC program to update data in Coffee table.
