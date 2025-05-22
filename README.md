@@ -230,7 +230,8 @@ JDBC program to insert data into Coffee table.
 ### 8B. Update Coffee Table
 JDBC program to update data in Coffee table.
 
-**Output:** [8B Mysql_update.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8B%20Mysql_update.png)
+**Output:** [8B CofeeUpdate.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8B%20CoffeeUpdate/CoffeeUpdate.png)  
+**Output:** [8B CofeeUpdateDTable.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp8%20JDBC%20Coffee%20Emp%20Insert%20Update/8B%20CoffeeUpdate/CoffeeUpdateTable.png)
 
 ### 8C. Insert into Emp Table with Report
 JDBC program to insert data into Employee table and generate a report.
@@ -251,12 +252,14 @@ JSP program to update data in Employee table.
 ### 9A. Delete Coffee Record
 JDBC program to delete records from Coffee table.
 
-**Output:** [9A Mysql_delete.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9A%20Mysql_delete.png)
+**Output:** [9A CoffeEDelete.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9A%20CoffeeDelete/CoffeeDelete.png)  
+**Output:** [9A CoffeEDeletedTable.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9A%20CoffeeDelete/CoffeeDeletedTable.png)  
 
 ### 9B. Query Coffee Name
 JDBC program to query Coffee table by name.
 
-**Output:** [9B Mysql_query.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9B%20Mysql_query.png)
+**Output:** [9B CoffeeQuery.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9B%20CoffeeQuery/CoffeeQuery.png)  
+**Output:** [9B CoffeeQueryTable.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9B%20CoffeeQuery/CoffeeQueryTable.png)
 
 ### 9C. Append into Emp Table with Report
 JDBC program to append data into Employee table and display a report.
