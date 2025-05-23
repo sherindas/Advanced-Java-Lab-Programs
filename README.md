@@ -265,13 +265,13 @@ JDBC program to query Coffee table by name.
 JDBC program to append data into Employee table and display a report.
 
 **Output:** 
-- [9C EmployeeInsert.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeInsertDisplay/9C%20EmployeeInsert.png)
-- [9C EmployeeDisplay.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeInsertDisplay/9C%20EmployeeDisplay.png)
+- [9C EmployeeInsert.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9C%20EmployeeInsertDisplay/9C%20EmployeeInsert.png)  
+- [9C EmployeeDisplay.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9C%20EmployeeInsertDisplay/9C%20EmployeeDisplay.png)  
 
 ### 9D. Delete Emp Record Starting with 'S'
 JDBC program to delete Employee records that start with the letter 'S'.
 
 **Output:** 
-- [EmployeeDeleteSearch.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/EmployeeDeleteSearch.png)
-- [DeleteConfirmation.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/DeleteConfirmation.png)
-- [EmployeeDeleted.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/EmployeeDelete/EmployeeDeleted.png)
+- [EmployeeDeleteSearch.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9D%20EmployeeDelete/EmployeeDeleteSearch.png)  
+- [DeleteConfirmation.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9D%20EmployeeDelete/DeleteConfirmation.png)
+- [EmployeeDeleted.png](https://github.com/sherindas/Advanced-Java-Lab-Programs/blob/main/Exp9%20JDBC%20Coffee%20Emp%20Delete%20Query/9D%20EmployeeDelete/EmployeeDeleted.png)  
